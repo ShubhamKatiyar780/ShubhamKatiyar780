@@ -3,7 +3,18 @@
 <h1 align="center"> Shubham Katiyar </h1>
 
 <h3 align="center">I am a Software Developer, passionate about development that improve the everyday experience for people.</h3>
-
+import SoftwareDeveloper from 'India';
+class Bio extends SoftwareDeveloper {
+  name     = 'Arpit Mishra';
+  title    = 'Software Developer';
+  address = 'Bahraich, U.P.';
+  availability = "Software Developer , Data Analyst ";
+}
+class Skills extends SoftwareDeveloper {
+  language  = ['Python','R','JavaScript','HTML','C','C++','Java'];
+  style = ['Bootstrap' , 'CSS'];
+  database = ['mysql']
+}
 <img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/gist/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkatiyar780&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkatiyar780" /> </p>
