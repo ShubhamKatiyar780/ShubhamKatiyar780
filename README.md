@@ -1,6 +1,7 @@
-                                             ## Hi there 👋
+<h1 align="center"> Hi there 👋  ~ I'm 🙂 </h1>
 
-<h1 align="center"> I'm Shubham Katiyar </h1>
+<h1 align="center"> ~I'm Shubham Katiyar </h1>
+
 <h3 align="center">I am a Software Developer, passionate about development that improve the everyday experience for people.</h3>
 
 <img align="right" alt="coding" width="600" src="https://raw.githubusercontent.com/gist/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif">
