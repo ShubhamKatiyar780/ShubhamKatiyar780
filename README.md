@@ -4,7 +4,7 @@
 
 <h3 align="center">I am a Software Developer, passionate about development that improve the everyday experience for people.</h3>
 
-<img align="right" alt="coding" width="500" src="https://github.com/user-attachments/assets/0814cdfc-229b-4eb8-846b-9c7e432683cb">
+<img align="right" alt="coding" width="600" src="https://github.com/user-attachments/assets/0814cdfc-229b-4eb8-846b-9c7e432683cb">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkatiyar780&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkatiyar780" /> </p>
 
