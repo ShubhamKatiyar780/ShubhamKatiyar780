@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋  ~ I'm 🙂 </h1>
 
-<h1 align="center"> Shubham Katiyar </h1>
+<h1 align="center"> Shubham Kaiyar </h1>
 
 <h3 align="center">I am a Software Developer, passionate about development that improve the everyday experience for people.</h3>
 
