@@ -2,7 +2,7 @@
 
 <h1 align="center"> Shubham Katiyar </h1>
 
-<h3 align="center">I am a Software Developer, passionate about development that improve the everyday experience for people.</h3>
+<h3 align="center">"Transforming raw data into actionable insights that drive business growth and strategic decisions."</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/0814cdfc-229b-4eb8-846b-9c7e432683cb">
 
